@@ -96,8 +96,6 @@ for i in unique_dates:
 
 
 unique_months = pd.period_range("2022-04", "2023-03", freq='M')
-
-
 #Above output will be in a format of Month/Year (04/2022)
 
 
