@@ -24,7 +24,8 @@ After collection of data, I needed to clean to remove unwanted values and anythi
 * Data collected is clean for better analysis and understanding.
 * Removing of null values, creating new columns for UPI transactions.
 * Converting multiple transactions on a day to single transaction for further processing.
-* Calculating monthly transactions and importing a new dataframe based on it.
+* Calculating monthly transactions and importing a new dataframe based on it.  
 
-<!-- ## EDA
-Exploratory Data Analysis is done on both Daily, Monthly Transactions -->
+## EDA
+Exploratory Data Analysis is done on both Daily, Monthly Transactions  
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
