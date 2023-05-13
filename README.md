@@ -28,4 +28,17 @@ After collection of data, I needed to clean to remove unwanted values and anythi
 
 ## EDA
 Exploratory Data Analysis is done on both Daily, Monthly Transactions  
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+![alt text](https://github.com/Syedmahmood777/financial_forecaster/blob/main/src_img/upi_transactions.png "UPI Transactions.png")  
+![alt text](https://github.com/Syedmahmood777/financial_forecaster/blob/main/src_img/tot_deposits.png "Total_Deposits.png")  
+<p align="center">Kernel Density Estimate Of Monthly Withdrawls</p>  
+
+![alt text](https://github.com/Syedmahmood777/financial_forecaster/blob/main/src_img/kde_with.png "KDE Withdrawls.png")  
+
+## Time Series Analysis
+* Analysing all the transactions with respect to date
+* Using two models to gain best results
+* ARIMA model without seasonality
+* SARIMAX model with seasonality to learn trends
+
+
