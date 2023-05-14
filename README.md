@@ -41,4 +41,25 @@ Exploratory Data Analysis is done on both Daily, Monthly Transactions
 * ARIMA model without seasonality
 * SARIMAX model with seasonality to learn trends
 
+## Arima Model
+Arima model was applied, but its results were static.  
+![alt text](https://github.com/Syedmahmood777/financial_forecaster/blob/main/model_analysis/arima_model.png " arima model.png")  
+Errors of the model were as follows:  
+* Mean Absolute Error: 3282.0327896414537  
+* Mean Absolute Percentage Error: 3.022257511793852e+18  
+* Root Mean Squared Error: 5817.4732058623495  
+![alt text](https://github.com/Syedmahmood777/financial_forecaster/blob/main/model_analysis/arima_pred.png " arima pred.png")  
+
+## SARIMAX Model
+SARIMAX model was applied for better result and understanding seasonality:  
+![alt text](https://github.com/Syedmahmood777/financial_forecaster/blob/main/model_analysis/sarima_model.png " sarima model.png")  
+Errors of the model were as follows:  
+* Mean Absolute Error: 3971.822417234379  
+* Mean Absolute Percentage Error: 4.645845057110243e+18  
+* Root Mean Squared Error: 5697.147329455461  
+![alt text](https://github.com/Syedmahmood777/financial_forecaster/blob/main/model_analysis/sarima_pred.png " sarima pred.png")  
+
+
+
+
 
